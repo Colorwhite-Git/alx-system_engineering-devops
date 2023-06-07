@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p my_first_directory/alx-system_engineering-devops
+mkdir -p my_first_directory/alx-system_engineering-devops/0x00-shell_basics
