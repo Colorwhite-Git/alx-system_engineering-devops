@@ -1,2 +1,2 @@
-#!/bin/bash
-sudo chown -R +111 */
+#!/bin/bin
+chmod -R +X
